@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @enricoexe
+- 🌱 I’m currently learning JSON
+- 📫 How to reach me nryco#9419 on discord
